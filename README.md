@@ -1,5 +1,5 @@
 
-# Books Too Read
+# Books To Read
 
 Welcome to your own personal list of books to read. This is a fast and convenient way to keep track of all the books 
 you want to read at a given time. 
